@@ -1,5 +1,7 @@
 # eslint-plugin-github
 
+Testing
+
 ## Installation
 
 ```sh
